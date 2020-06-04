@@ -1,0 +1,27 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Next Level Week #01",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbuck84/projeto.git"
+  },
+  "keywords": [],
+  "author": "Daniel Buck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbuck84/projeto/issues"
+  },
+  "homepage": "https://github.com/danbuck84/projeto#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
